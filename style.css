@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+          
+
+.cabecalho {
+    background-color: #5864a0;
+    color: #d5d5dd;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
+
+.cabecalho-imagem{
+ 
+    width: 20%;
+
+}
+.cabecalho-lista-ítem{
+    display:inline-block;
+    margin: 0 16 ;
+    font-size: 24px;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{ 
+    background-image: linear-gradient( #5864a0, #020238);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+.escola-div-conteudo{
+    width: 35%
+}
+.escola-titilo{
+    padding: 24px 0;
+}
